@@ -1,0 +1,53 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/12/2016 10:54
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41dd41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-add:before { content: "\f100"; }
+.flaticon-black:before { content: "\f101"; }
+.flaticon-budding-leaves:before { content: "\f102"; }
+.flaticon-cell-phone:before { content: "\f103"; }
+.flaticon-comments:before { content: "\f104"; }
+.flaticon-gardener:before { content: "\f105"; }
+.flaticon-gardening:before { content: "\f106"; }
+.flaticon-gardening-in-home:before { content: "\f107"; }
+.flaticon-lawn-mower:before { content: "\f108"; }
+.flaticon-leaves:before { content: "\f109"; }
+.flaticon-message:before { content: "\f10a"; }
+.flaticon-nature:before { content: "\f10b"; }
+.flaticon-nature-1:before { content: "\f10c"; }
+.flaticon-people:before { content: "\f10d"; }
+.flaticon-pin:before { content: "\f10e"; }
+.flaticon-pin-1:before { content: "\f10f"; }
+.flaticon-placeholder:before { content: "\f110"; }
+.flaticon-plant-with-leaves:before { content: "\f111"; }
+.flaticon-tool:before { content: "\f112"; }
+.flaticon-trophy:before { content: "\f113"; }
+.flaticon-watering-can:before { content: "\f114"; }
+.flaticon-wheelbarrow:before { content: "\f115"; }

@@ -1,0 +1,245 @@
+@media (max-width: 1199px) {
+	.recent-project .owl-controls{
+		display:none;
+	}
+	.navigation li a{
+		    padding: 7px 5px 28px;
+	}
+	.mainmenu-area .thm-btn {
+    padding: 0 13px;
+    
+ }
+	.mainmenu-area {
+    padding: 0 15px;
+    min-height: 66px;
+	}
+
+	.mainmenu-area .showhide {
+    height: 60px;
+    width: 30px;
+    padding: 18px 0 41px;
+    float: none;}
+
+}
+
+@media (max-width: 1200px) and (min-width: 992px) {
+	
+	.theme_menu .thm-btn {
+		padding: 0 13px;
+
+	}
+	
+}
+
+@media (max-width: 1200px) and (min-width:992px) {
+	.two-column .inner-box .image-box {
+		position: relative;
+		margin-bottom: -95px;
+	}
+	.two-column .content-box{
+		padding: 30px 0px 80px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.project-carousel .owl-controls .owl-nav {
+	  top: auto;
+	  left: 0;
+	  right: 0;
+	}
+	.recent-project .owl-controls {
+    position: absolute;
+    bottom: 45px;
+    left: -155px;
+	}
+	
+}
+
+
+
+
+@media (min-width: 992px) {
+	
+}
+
+@media (max-width: 991px) {
+	
+	
+	.theme_menu.stricky-fixed .main-logo {
+	    display: none;
+	}
+	
+	.right-area {
+	    position: absolute;
+	    right: 15px;
+	    top: 18px;
+	}
+	.nav_side_content .search_option form {
+	    width: 250px;
+	    right: -25px;
+	    top: 52px;
+	}
+	.theme_menu {
+		background: #f7f7f7;
+	}
+	.mainmenu-area .menu-column{
+	    float: left;
+	    width: 100%;
+	}
+    .mainmenu-area .right-area{
+    	margin-right: 17px;
+    }
+
+	.main-logo {
+	    margin: 15px 0 15px;
+	    text-align: center;
+	}
+	.nav_side_content {
+		margin-top: 31px;
+	}
+	.two-column .content-box{
+		padding: 30px 0px 80px;
+	}
+	.about .item-list .item.clearfix {
+		margin-top: 0px;
+	}
+	.call-to-action {text-align: center;}
+	.call-to-action a.thm-btn {float: none !important;  margin-top:20px;}
+}
+
+@media (max-width: 768px) {
+	.header-top .top-right, 
+	.header-top .top-left {
+		width: 100%;
+		text-align:center;
+	}
+	
+	.header-top .top-right ul,
+	.header-top .top-left ul {
+		text-align: center;
+	}
+	
+	.header-top .top-right ul li,
+	.header-top .top-left ul li {
+		display: inline-block;
+		float: none;
+	}
+	
+	
+	.our-team .owl-controls .owl-nav{
+		margin-bottom: 10px !important;
+	}
+	.latest-news .owl-theme .owl-nav{
+		margin-bottom: 10px !important;
+	}
+	
+	.page-title .path{
+		text-align:center;
+	}
+	.sidebar-page .sidebar {
+		position: relative;
+		padding-left: 0px;
+	}
+	.header-top .top-right{
+		margin:10px 0px;
+	}
+	.footer-bottom{
+		padding-bottom:70px;
+	}
+	.footer-bottom .pull-left{
+		text-align:center;
+		width:100%;
+	}
+	.footer-bottom .pull-right{
+		text-align:center;
+		margin-top:5px;
+		width:100%;
+	}
+	
+}
+
+@media (max-width: 640px) {
+	.rev_slider,
+	.page-title{
+		margin-top:0px !important;	
+	}
+	
+	.page-title{
+		text-align:center;
+	}
+	
+}
+
+@media (max-width: 700px) {
+	.feature{
+	margin-top:90px;
+	}
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 359px) {
+	.feature .item-list .item .content-box p{
+		display:none;
+	}
+	.feature .item-list .item .content-box h3{
+		margin-top:10px;
+		text-align:center;
+	}
+}
+
+
+
+
+
+@media only screen and (min-width: 1200px){
+.container {padding: 0;}
+.container-fluid{padding: 0;}      
+}
+
+@media only screen and (min-width: 991px){
+  .mobile-menu {
+    display: none;
+  }      
+}
+@media only screen and (max-width: 991px){
+    
+
+/*=================== mobile-menu ======================*/
+
+  .navigation {
+    display: none;
+  } 
+
+  .main-menu .collapse {
+    border: 0px;
+    max-height: 300px;
+    display: none !important;
+    overflow: auto !important;
+  } 
+
+  .main-menu .collapse.in, 
+  .main-menu .collapsing {
+    display: block !important;
+  } 
+
+  .main-menu .navbar-header{
+    padding: 14px 6px;
+    float: none;
+    background: #f7f7f7;
+  }  
+
+  .main-menu .navbar-toggle {
+    float: none;
+    margin: 0;
+    display: block;
+  }  
+
+  .main-menu .navbar-toggle .icon-bar {
+    background: #ffb426;
+    width: 30px;
+  }  
+/*=================================menu=======================*/     
+}
