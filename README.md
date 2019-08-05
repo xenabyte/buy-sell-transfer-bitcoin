@@ -11,8 +11,8 @@ The installation is simple. It follows the installation process of other laravel
 
 It is still a work in progress and hopefully it matures into something robust enough to be used in large scale production.
 
-#Installation
+# Installation
 
 contact: iconcept573@gmail.com
 
-Cheers
+# Cheers
